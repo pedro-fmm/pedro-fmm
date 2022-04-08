@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Django" height="30" width="40" src="https://raw.github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Pedro-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Pedro-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pedro-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
