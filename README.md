@@ -7,12 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fmm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=pedro-fmm&theme=gotham&hide_border=true&area=true)
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedro-fmm&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
-
 <div align="center">  
 <a href="https://www.linkedin.com/in/pedro-felipe-matos-menezes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pedrofmm13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -32,18 +26,11 @@
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
   
 ### Studying in this moment:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![K8S](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
 ### Certifications:
-* AWS Foundational Cloud Practicioner
-* AWS Associate Solutions Architect
-
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedro-fmm}/count.svg" /></p> 
-<br></div> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> 
+* AWS Certified Cloud Practitioner
+* AWS Certified Solutions Architect ‒ Associate
+* AWS Certified Developer - Associate
+* AWS Certified DevOps Engineer – Professional
